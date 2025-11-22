@@ -1,0 +1,4 @@
+# Core dependencies for SentinelAI
+groq>=0.4.0
+requests>=2.31.0
+
